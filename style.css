@@ -1,0 +1,11 @@
+.test {
+  max-width: 100vw;
+  max-height: 85vh;
+}
+
+.center-text {
+  position: absolute;
+  top: 29%;
+  left: 50%;
+  transform: translate(-37%, -48%);
+}
